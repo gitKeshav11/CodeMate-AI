@@ -298,9 +298,26 @@ This makes it suitable for:
 
 ---
 
+## 👨‍💻 Author & Contributors
+<a href="https://github.com/gitKeshav11/BuildWithUs-Backend/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gitKeshav11/BuildWithUs-Backend" />
+
+
+  https://github.com/gitKeshav11/BuildWithUs-Backend.git
+</a>
+
+## 📞 Contact
+### **Keshav Upadhyay**  
+**Role:** Backend Developer (Java & Spring Boot)  
+📧 Email: [keshavupadhyayje@gmail.com](mailto:keshavupadhyayje@gmail.com)  
+🔗 LinkedIn: [Keshav Upadhyay](https://www.linkedin.com/in/keshavupadhyayje/)  
+🐙 GitHub: [gitKeshav11](https://github.com/gitKeshav11)  
+
+----
+
 ## Repository Info
 
-- Repository Name: `buildwithus-backend`
+- Repository Name: `BuildWithUs-Backend`
 - Release Version: `v1.0.0`
 - Type: Initial Stable Backend Release
 
