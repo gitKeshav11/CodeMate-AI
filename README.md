@@ -300,11 +300,8 @@ This makes it suitable for:
 <a href="https://github.com/gitKeshav11/BuildWithUs-Backend/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gitKeshav11/BuildWithUs-Backend" />
 
-
-  https://github.com/gitKeshav11/BuildWithUs-Backend.git
 </a>
 
-## 📞 Contact
 ### **Keshav Upadhyay**  
 **Role:** Backend Developer (Java & Spring Boot)  
 📧 Email: [keshavupadhyayje@gmail.com](mailto:keshavupadhyayje@gmail.com)  
